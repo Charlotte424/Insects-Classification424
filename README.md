@@ -5,19 +5,20 @@
 ![alt text](https://cdn.britannica.com/45/102445-050-E3375B6D/Insect-diversity.jpg)
 
 ## How the Algorithm Works
-
-For the AI to be able to classify the insects, the algorithm needed to have traning data to learn, testing data to make sure its worlking, and val data to make sure the caculations are correct. Although, you need data you also have to train the model to understand what its looking at and then you can use it to classify pictures.
+For the AI to be able to classify the insects, the algorithm needed to have traning data to learn, testing data to make sure its working, and val data to make sure the caculations are correct. Although, you need data, thats not alll you need, you also have to train the model to understand what its looking at and then you can use it to classify pictures.
 ## Creating the Project
 The steps:
 1. Have your Jetson-Nano setup
+   ![alt text](https://hexdocs.pm/nerves_system_jetson_nano/assets/images/jetson_nano_devkit.jpg)
 2. Write a program to display the Ai's confidence as well as the class
   ![alt text](https://github.com/Charlotte424/Insects-Classification424/blob/main/Screenshot%202024-07-10%20112326.jpg)
-3. Find or create a data set and download it into VS code
+3. Find or create a data set and download it into VS code.The data set I used was from Kaggle.
+   !(https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png)
 4. Go into your docker and build a model
 5. Run epochs until you are satisfied with the acuracy
 ![Butterfly](https://github.com/Charlotte424/Insects-Classification424/blob/main/cat.jpg?raw=true)
-7. Export the network and covert the ResNet-18 model to a onnx format
-8. Test the model on images
-9. Run more epochs if needed
+6. Export the network and covert the ResNet-18 model to a onnx format
+7. Test the model on images
+8. Run more epochs if needed
    
 [View a video explanation here](video link)
