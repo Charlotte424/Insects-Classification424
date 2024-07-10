@@ -11,7 +11,7 @@ For the AI to be able to classify the insects, the algorithm needed to have tran
 The steps:
 1. Have your Jetson-Nano setup
 2. Write a program to display the Ai's confidence as well as the class
-  ![alt text](file:///C:/Users/Student/Pictures/Screenshot%202024-07-10%20112326.jpg)
+  ![alt text](https://github.com/Charlotte424/Insects-Classification424/blob/main/Screenshot%202024-07-10%20112326.jpg)
 3. Find or create a data set and download it into VS code
 4. Go into your docker and build a model
 5. Run epochs until you are satisfied with the acuracy
