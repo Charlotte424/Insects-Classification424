@@ -13,12 +13,13 @@ The steps:
 2. Write a program to display the Ai's confidence as well as the class
   ![alt text](https://github.com/Charlotte424/Insects-Classification424/blob/main/Screenshot%202024-07-10%20112326.jpg)
 3. Find or create a data set and download it into VS code.The data set I used was from Kaggle.
-   !(https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png)
-4. Go into your docker and build a model
-5. Run epochs until you are satisfied with the acuracy
-![Butterfly](https://github.com/Charlotte424/Insects-Classification424/blob/main/cat.jpg?raw=true)
-6. Export the network and covert the ResNet-18 model to a onnx format
-7. Test the model on images
-8. Run more epochs if needed
+   ![](https://github.com/Charlotte424/Insects-Classification424/blob/main/Screenshot%202024-07-10%20141319.jpg)
+4. Go into your docker and build a model   
+6. Run epochs until you are satisfied with the acuracy
+![  ](https://www.baeldung.com/wp-content/uploads/sites/4/2023/05/early_stopping-1024x605.jpg)
+7. Export the network and covert the ResNet-18 model to a onnx format
+8. test the model on images
+  ![Butterfly](https://github.com/Charlotte424/Insects-Classification424/blob/main/cat.jpg?raw=true)
+10. Run more epochs if needed
    
 [View a video explanation here](video link)
