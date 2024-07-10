@@ -16,7 +16,7 @@ The steps:
    ![](https://github.com/Charlotte424/Insects-Classification424/blob/main/Screenshot%202024-07-10%20141319.jpg)
 4. Go into your docker and build a model   
 6. Run epochs until you are satisfied with the acuracy
-![  ](https://www.baeldung.com/wp-content/uploads/sites/4/2023/05/early_stopping-1024x605.jpg)
+
 7. Export the network and covert the ResNet-18 model to a onnx format
 8. test the model on images
   ![Butterfly](https://github.com/Charlotte424/Insects-Classification424/blob/main/cat.jpg?raw=true)
