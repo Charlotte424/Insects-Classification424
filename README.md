@@ -15,7 +15,7 @@ The steps:
 3. Find or create a data set and download it into VS code.The data set I used was from Kaggle.
    ![](https://github.com/Charlotte424/Insects-Classification424/blob/main/Screenshot%202024-07-10%20141319.jpg)
 4. Go into your docker and build a model   
-6. Run epochs until you are satisfied with the acuracy
+6. Run epochs until you are satisfied with the acuracy but keep in mind that to many epochs can cause overfitting
 
 7. Export the network and covert the ResNet-18 model to a onnx format
 8. test the model on images
