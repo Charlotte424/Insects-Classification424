@@ -15,7 +15,7 @@ The steps:
 3. Find or create a data set and download it into VS code
 4. Go into your docker and build a model
 5. Run epochs until you are satisfied with the acuracy
-![Butterfly](file:///C:/Users/Student/Pictures/Butterflytest6.jpg)
+![Butterfly]()
 7. Export the network and covert the ResNet-18 model to a onnx format
 8. Test the model on images
 9. Run more epochs if needed
