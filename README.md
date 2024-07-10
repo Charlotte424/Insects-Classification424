@@ -21,5 +21,6 @@ The steps:
 8. test the model on images
   ![Butterfly](https://github.com/Charlotte424/Insects-Classification424/blob/main/cat.jpg?raw=true)
 10. Run more epochs if needed
-   
+
+For more detailed information you can watch 	[Jetson nano Fundemntals](https://www.youtube.com/watch?v=VWdJ4BCtam8&list=PL5B692fm6--uQRRDTPsJDp4o0xbzkoyf8) on YouTube
 [View a video explanation here](video link)
