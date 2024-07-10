@@ -1,6 +1,6 @@
 # Insects-Classification424
 
- *This project aims to identify 5 diffrent classes; Butterflies,Mosquitos,Dragonflies,Grasshoppers,and Ladybugs, of insects by using Ai* 
+ *This project aims to identify 5 diffrent classes; Butterflies,Mosquitos,Dragonflies,Grasshoppers,and Ladybugs, of insects by using AI* 
 
 ![alt text](https://cdn.britannica.com/45/102445-050-E3375B6D/Insect-diversity.jpg)
 
@@ -22,5 +22,5 @@ The steps:
   ![Butterfly](https://github.com/Charlotte424/Insects-Classification424/blob/main/cat.jpg?raw=true)
 10. Run more epochs if needed
 
-For more detailed information you can watch 	[Jetson nano Fundemntals](https://www.youtube.com/watch?v=VWdJ4BCtam8&list=PL5B692fm6--uQRRDTPsJDp4o0xbzkoyf8) on YouTube
+For more detailed information you can watch 	[Jetson AI Fundemntals](https://www.youtube.com/watch?v=VWdJ4BCtam8&list=PL5B692fm6--uQRRDTPsJDp4o0xbzkoyf8) on YouTube
 [View a video explanation here](video link)
