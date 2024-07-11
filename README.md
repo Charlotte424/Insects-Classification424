@@ -12,7 +12,7 @@ The steps:
    ![alt text](https://hexdocs.pm/nerves_system_jetson_nano/assets/images/jetson_nano_devkit.jpg)
 2. Write a program to display the Ai's confidence as well as the class
   ![alt text](https://github.com/Charlotte424/Insects-Classification424/blob/main/Screenshot%202024-07-10%20112326.jpg)
-3. Find or create a data set and download it into VS code.The data set I used was from Kaggle.
+3. Find or create a data set and download it into VS code.The data set I used was from	[Kaggle](https://www.kaggle.com/datasets?search=image+classification).
    ![](https://github.com/Charlotte424/Insects-Classification424/blob/main/Screenshot%202024-07-10%20141319.jpg)
 4. Go into your docker and build a model   
 6. Run epochs until you are satisfied with the acuracy but keep in mind that to many epochs can cause overfitting
