@@ -24,3 +24,5 @@ The steps:
 
 For more detailed information you can watch 	[Jetson AI Fundemntals](https://www.youtube.com/watch?v=VWdJ4BCtam8&list=PL5B692fm6--uQRRDTPsJDp4o0xbzkoyf8) on YouTube
 
+[YouTube video of my project](https://youtu.be/9yBG0-qe4cY)
+
