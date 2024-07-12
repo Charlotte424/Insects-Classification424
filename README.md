@@ -26,3 +26,4 @@ For more detailed information you can watch 	[Jetson AI Fundemntals](https://www
 
 [YouTube video of my project](https://youtu.be/9yBG0-qe4cY)
 
+
